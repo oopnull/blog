@@ -1,6 +1,7 @@
 // config routers
-import Login from "../pages/Login";
-import Layout from "../pages/Layout";
+import Login from "@/pages/Login";
+import Layout from "@/pages/Layout";
+
 import { createBrowserRouter } from "react-router-dom";
 
 // config router instance
